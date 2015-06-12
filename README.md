@@ -1,5 +1,5 @@
 # Printrbot2MiniMax
-notes and instructions for converting printrbot simple to a minimax
+notes and instructions for converting printrbot simple 1405 to a MTW [MiniMax](http://store.makerstoolworks.com/printers-kits/minimax-by-makers-tool-works-full-printer-kit/)
 
 # Printed Parts
 * 1 x [Printrbot extruder mount](https://www.youmagine.com/designs/printrbot-extruder-mount-for-mtw-minimax)
