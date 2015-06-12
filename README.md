@@ -11,6 +11,7 @@ notes and instructions for converting printrbot simple 1405 to a MTW [MiniMax](h
 
 # Modify parts from the printrbot
 * For the Simple 1405, the X endstop needed to be lengthened and possibly the Y endstop depending on where it is used. Lengthening the wires is as simple as put extra wire between the existing ones to preserve the molex connector.
+![endstop wire Lengthening](https://raw.githubusercontent.com/quillford/Printrbot2MiniMax/master/pictures/IMG_7687.JPG)
 
 # Pictures
 ![extruder](https://github.com/quillford/Printrbot2MiniMax/blob/master/pictures/IMG_7681.JPG)
