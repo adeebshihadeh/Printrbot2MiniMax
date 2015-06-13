@@ -15,6 +15,10 @@ notes and instructions for converting printrbot simple 1405 to a MTW [MiniMax](h
 * For the Simple 1405, the X endstop needed to be lengthened and possibly the Y endstop depending on where it is used. Lengthening the wires is as simple as putting extra wire between the existing ones to preserve the molex connector.
 ![endstop wire Lengthening](https://raw.githubusercontent.com/quillford/Printrbot2MiniMax/master/pictures/IMG_7687.JPG)
 
+# Firmware
+* Flash [this](https://github.com/quillford/marlin/tree/MiniMax) Marlin fork to your Printrboard. Generate a hex file from the Marlin source linked then flash it to the printrboard using [these](http://help.printrbot.com/Guide/How+to+Reflash+Firmware/78) instructions from Printrbot.
+* If you want a more recent version of Marlin, you can copy the [MiniMax config](https://www.dropbox.com/sh/xc26p69510h909b/AAClJJ2JscXITscF7lDy2cOka/Configuration.h?dl=0) parameters such as steps/mm to a recent [Marlin](https://github.com/MarlinFirmware/Marlin) version (I recommend using the Release branch).
+
 # Pictures
 ![extruder](https://github.com/quillford/Printrbot2MiniMax/blob/master/pictures/IMG_7681.JPG)
 ![extruder](https://github.com/quillford/Printrbot2MiniMax/blob/master/pictures/IMG_7683.JPG)
